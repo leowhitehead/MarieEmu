@@ -1,7 +1,7 @@
 # MarieEmu
 An emulator for the MARIE instruction set
 
-Still work in progress, doesn't work on MARIE's multiplication example, but works relatively well otherwise. Input must be raw binary, so must be edited with a Hex editor.
+Still work in progress, doesn't work on MARIE's multiplication example, but works relatively well otherwise. Input is only supported with raw binary files.
 
 Input/output is formatted as hex.
 
