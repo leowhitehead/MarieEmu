@@ -3,7 +3,7 @@ An emulator for the MARIE instruction set
 
 Still work in progress, doesn't work on MARIE's multiplication example, but works relatively well otherwise. Input must be raw binary, so must be edited with a Hex editor.
 
-Input/output is formatted as hex/
+Input/output is formatted as hex.
 
 Example compilation and use:
 
