@@ -89,8 +89,10 @@ void run(cpuState* cpu){
             exit(0);
             break;
         default:
-            printf("Illegal instruction: %x\n", cpu->MEM[cpu->PC]);
-            exit(1);
+            printf("Illegal instruction: %x\nThe hell am I supposed to do with an 0xF, you telling me to go F myself?\nYou go F yourself", cpu->MEM[cpu->PC]);
+            while(true){
+                printf("Hahahahahaha");
+            }
     }
 }
 
